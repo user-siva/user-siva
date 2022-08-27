@@ -1,4 +1,4 @@
-### Hello developers 👋
+### Hello Developers 👋
 # I'm Siva Ganesh
 
 <img src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" alt="GIF" width=300 height=250 align='left'></a>   
